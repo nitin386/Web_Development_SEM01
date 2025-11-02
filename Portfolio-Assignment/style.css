@@ -1,0 +1,80 @@
+header{
+            background-color: skyblue;
+            border-radius: 20px;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+#main{
+    background-color: skyblue;
+    border-radius: 20px;
+    text-align: center;
+
+}
+h1,h2{
+    text-align: center;
+    font-family: "Playwrite DE SAS", cursive;
+}
+body{
+            background-color: black;
+            color: white;
+        }
+table,th,td{
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid skyblue;
+    margin: 0 auto;
+    padding: 10px 40px;
+}
+
+#highlight{
+    background-color: skyblue;
+}
+a{
+    display: inline-block;
+    color: white;
+    margin: 5px 40px;
+    }
+img{
+    display: block;
+    text-align: center;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+p{
+    text-align: center;
+}
+nav{
+    text-align: center;
+    margin: 10px 0;
+}
+div{
+    background-color: skyblue;
+    border-radius: 20px;
+    margin: 10px auto;
+    padding: 10px;
+    width: 500px;
+}
+#contact{
+    text-align: center;
+    border: 2px solid skyblue;
+    margin: 0 auto;
+    padding: 10px 40px;   
+}
+#submit{
+    background-color: skyblue;
+    color: white;
+    border: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+#back{
+    position: relative;
+    bottom: 0px;
+    left: 500px;
+    padding: 10px 15px;
+    background-color: skyblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
