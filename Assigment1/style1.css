@@ -11,7 +11,7 @@ h2{
 
 .movie-container{
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 per row */
+    grid-template-columns: repeat(3, 1fr);
     gap: 20px;
 }
 
@@ -28,8 +28,8 @@ h2{
 
 .card img{
     width: 100%;
-    aspect-ratio: 3 / 4;   /* FIX: Same shape for all images */
-    object-fit: cover;     /* FITS perfectly */
+    aspect-ratio: 3 / 4;   
+    object-fit: cover;     
     border-radius: 8px;
 }
 
